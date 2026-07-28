@@ -1,3 +1,6 @@
+/*The following program is made to design and implement a bare-metal Embedded C and direct memory-mapped register access, develop a four-state LED control system. 
+Each valid button press advances the system to the next operating mode: running LED pattern, binary counter, alternating pattern, and all-LED flashing */
+
 #include <reg51.h>
 #include <stdio.h>
 
